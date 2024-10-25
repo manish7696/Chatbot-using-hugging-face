@@ -10,7 +10,8 @@
   git clone https://github.com/manish7696/Chatbot-using-hugging-face.git
   ```
 - Replace your hugging face api key with the placeholder
-- run the following command in terminal:
+- Replace the website url in the main function which you want to scrape
+- Run the following command in terminal:
   ```
   python chat.py
   ```
