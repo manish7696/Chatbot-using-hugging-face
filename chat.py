@@ -3,7 +3,7 @@ import requests
 from huggingface_hub import InferenceClient
 
 # Initialize HuggingFace client
-client = InferenceClient(api_key="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")
+client = InferenceClient(api_key="YOUR API KEY HERE")
 
 def scrape_website(url):
     # Send a request to the website
