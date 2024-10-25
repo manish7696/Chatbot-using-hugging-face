@@ -6,6 +6,9 @@
 
 ## How to use:
 - Clone this repository
+  ```
+  git clone https://github.com/manish7696/Chatbot-using-hugging-face.git
+  ```
 - Replace your hugging face api key with the placeholder
 - run the following command in terminal:
   ```
